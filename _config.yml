@@ -31,10 +31,9 @@ defaults:
     values:
       layout: "project" # overrides previous default layout
       author: "Echonaut"
-
-
+  -
 title: Illuminatus
-email: illuminatus@echonautica.con
+email: illuminatus@echonautica.com
 description: "Echonautica: Custom designs."
 # this means to ignore newlines until "baseurl:"
 # Write an awesome description for your new site here. You can edit this
