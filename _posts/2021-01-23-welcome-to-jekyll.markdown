@@ -22,8 +22,13 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out these great links! First, is the [featured book][featured-book] by Dr. Thomas Stark The Stairway to Consciousness: The Birth of Self-Awareness from Unconscious Archetypes (The Truth Series Book 12) and do not miss this [72 Demon Course Pre-Release][featured-link] by Baal Kadmon. Enjoy!
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[featured-book]:	https://www.amazon.com/Stairway-Consciousness-Self-Awareness-Unconscious-Archetypes-ebook/dp/B07KY6QGN6
+[featured-link]:	https://www.occultcourses.com/predemon
+
+# Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+# [jekyll-docs]: https://jekyllrb.com/docs/home
+# [jekyll-gh]:   https://github.com/jekyll/jekyll
+# [jekyll-talk]: https://talk.jekyllrb.com/
