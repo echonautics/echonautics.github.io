@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Echonautica usage documentation at [echonautica.com](https://echonautica.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Please take a moment and check out these great links!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here is an amazing book to read:
+[Dr. Thomas Stark](https://www.amazon.com/Dr.-Thomas-Stark/e/B075J9RNJP%3Fref=db)
+[The Stairway to Consciousness: The Birth of Self-Awareness from Unconscious Archetypes (The Truth Series Book 12)](https://www.amazon.com/gp/aw/d/B07KY6QGN6/ref=dbs_a_w_dp_b07k)
 
-
-[jekyll-organization]: https://github.com/jekyll
+Baal Kadmon recently released this online course:
+[Baal Kadmon](https://github.com/jekyll)
+[72 Demon Course Pre-Release](https://github.com/jekyll/jekyll)
