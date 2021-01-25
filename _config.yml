@@ -45,7 +45,7 @@ instagram_username: echonautica_illuminatus
 github_username:  echonaut
 
 # Build settings
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
 plugins: 
     - jekyll-feed
