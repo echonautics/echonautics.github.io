@@ -21,16 +21,16 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
-      type: "pages"
+      type: pages
     values:
-      layout: "my-site"
+      layout: my-site
   -
     scope:
-      path: "projects"
-      type: "pages" # previously `page` in Jekyll 2.2.
+      path: projects
+      type: pages # previously `page` in Jekyll 2.2.
     values:
-      layout: "project" # overrides previous default layout
-      author: "Echonaut"
+      layout: project # overrides previous default layout
+      author: Echonaut
   -
 title: Illuminatus
 email: illuminatus@echonautica.com
@@ -39,20 +39,16 @@ description: "Echonautica: Custom designs."
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Gogle search results) and in your feed.xml site description.
-baseurl: /main # the subpath of your site, e.g. /blog
+baseurl: /about # the subpath of your site, e.g. /blog
 url: https://echonautica.com # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: echonautica_illuminatus
 github_username:  echonaut
 
 # Build settings
-theme: "minima"
+theme: jekyll-theme-minimal
+
 plugins: 
     - jekyll-feed
-
-liquid:
-  error_mode: strict
-  strict_variables: true
-  strict_filters: true
 
 # Where things are
 source              : .
@@ -113,7 +109,7 @@ defaults            : []
 # Liquid settings
 liquid:
   error_mode        : warn
-  strict_filters    : false
+  strict_filters    : true
   strict_variables  : false
 
 # Markdown Processors
