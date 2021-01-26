@@ -4,3 +4,16 @@
 
 layout: home
 ---
+
+Please take the time to check out these great links!
+
+Here are link to a great author and one of his books:
+[The Stairway to Consciousness: The Birth of Self-Awareness from Unconscious Archetypes (The Truth Series Book 12)][featured-book] /
+[Dr.Thomas Stark](https://www.amazon.com/Dr.-Thomas-Stark/e/B075J9RNJP)
+
+Here are the links to Baal Kadmon's course pre-release:
+[72 Demon Course][featured-page] /
+[Baal Kadmon](https://baalkadmon.com/)
+
+[featured-book]: https://www.amazon.com/gp/aw/d/B07KY6QGN6
+[featured-page]: https://www.occultcourses.com/predemon 
