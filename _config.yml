@@ -39,7 +39,7 @@ description: "Echonautica: Custom designs."
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Gogle search results) and in your feed.xml site description.
-baseurl: /about # the subpath of your site, e.g. /blog
+baseurl: /about/ # the subpath of your site, e.g. /blog
 url: https://echonautica.com # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: echonautica_illuminatus
 github_username:  echonaut
@@ -47,8 +47,7 @@ github_username:  echonaut
 # Build settings
 theme: jekyll-theme-minimal
 
-plugins: 
-    - jekyll-feed
+plugins: jekyll-feed
 
 # Where things are
 source              : .
@@ -66,7 +65,7 @@ collections:
 
 # Handling Reading
 safe                : false
-include             : [".htaccess"]
+include             : [".htaccess", "_pages"]
 exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
 keep_files          : [".git", ".svn"]
 encoding            : "utf-8"
@@ -98,7 +97,7 @@ baseurl             : "" # does not include hostname
 show_dir_listing    : false
 
 # Outputting
-permalink           : date
+permalink           : /:categories/:year/:month/:day/:title:output_ext
 paginate_path       : /page:num
 timezone            : null
 
