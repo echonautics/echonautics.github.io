@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Welcome to Illuminatus by Echonautica Designs. This is created for learning purposes and publishing my artwork. Eventually this will be where I will publish the webapp and process sales for my clothing line that is currently in progress of creation.
+Welcome to Illuminatus by Echonautica Designs.
+
+This is created for learning purposes and publishing my artwork.
+Eventually this will be where I will publish the webapp and process sales for my clothing line that is currently in progress of creation.
 
 This website was created and compiled with Jekyll.
 
