@@ -15,5 +15,9 @@ Here are the links to Baal Kadmon's course pre-release:
 [72 Demon Course][featured-page] /
 [Baal Kadmon](https://baalkadmon.com/)
 
+Don't forget to check out MazMo's site:
+[MaMaMythology][featured-site]
+
 [featured-book]: https://www.amazon.com/gp/aw/d/B07KY6QGN6
 [featured-page]: https://www.occultcourses.com/predemon 
+[featured-site]: https://mamamythology.com/
