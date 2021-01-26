@@ -38,13 +38,13 @@ description: "Echonautica: Custom designs."
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Gogle search results) and in your feed.xml site description.
-baseurl: /about/
+baseurl: /
 url: https://echonautica.com
 instagram_username: echonautica_illuminatus
 github_username:  echonaut
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins: jekyll-feed
 
 # Where things are
