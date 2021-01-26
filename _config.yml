@@ -49,7 +49,7 @@ plugins: jekyll-feed
 
 # Where things are
 source: /home/echonaut/echonautics.github.io
-destination: ./_site
+destination: _site
 collections_dir: /home/echonaut/echonautics.github.io
 plugins_dir: _plugins
 layouts_dir: _layouts
