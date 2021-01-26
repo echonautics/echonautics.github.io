@@ -17,23 +17,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 defaults:
+  -
     scope:
       path: ""
-      type: pages
+      type: "pages"
     values:
-      layout: home
-
+      layout: "default"
+  -
     scope:
-      path: projects
-      type: pages
+      path: "projects"
+      type: "pages"
     values:
-      layout: page
-      author: Echonaut
+      layout: "project"
+      author: "Echonaut"
 
 title: Illuminatus
 email: illuminatus@echonautica.com
-description: "Echonautica: Custom designs."
+description: "Echonautica: Custom designs"
 # this means to ignore newlines until "baseurl:"
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
@@ -48,9 +50,9 @@ theme: minima
 plugins: jekyll-feed
 
 # Where things are
-source: /home/echonaut/echonautics.github.io
+source: .
 destination: _site
-collections_dir: /home/echonaut/echonautics.github.io
+collections_dir: .
 plugins_dir: _plugins
 layouts_dir: _layouts
 data_dir: _data
