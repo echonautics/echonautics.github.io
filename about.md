@@ -1,7 +1,6 @@
 ---
 layout: default
 title: about
-permalink: title
 ---
 
 Welcome to Illuminatus by Echonautica Designs.

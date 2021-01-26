@@ -4,7 +4,6 @@
 
 layout: default
 title: index
-permalink: title
 ---
 
 Please take the time to check out these great links!
