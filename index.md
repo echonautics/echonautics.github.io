@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Index
-permalink: /index/
+title: index
+permalink: title
 ---
 
 Please take the time to check out these great links!
