@@ -19,6 +19,10 @@ Here are the links to Baal Kadmon's course pre-release:
 Don't forget to check out MazMo's site:
 [MaMa Mythology][featured-site]
 
+Looking for great books? Check out OneOfManyOne's archives.
+[Occult e-book Archives][featured-archive]
+
 [featured-book]: https://www.amazon.com/gp/aw/d/B07KY6QGN6
 [featured-page]: https://www.occultcourses.com/predemon 
 [featured-site]: https://mamamythology.com/
+[featured-archive]: https://justpaste.it/WiLdOccultEbooks
