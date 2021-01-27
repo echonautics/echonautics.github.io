@@ -25,3 +25,4 @@ Looking for great books? Check out OneOfManyOne's [Occult e-book Archives][featu
 [featured-page]: https://www.occultcourses.com/predemon 
 [featured-site]: https://mamamythology.com/
 [featured-archive]: https://justpaste.it/WiLdOccultEbooks
+[amermageddon]: https://armageddonconspiracy.co.uk/
