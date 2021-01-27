@@ -3,26 +3,21 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Index
+title: Knowledge Database
 ---
 
-Please take the time to check out these great links!
-
-Here are link to a great author and one of his books:
-[The Stairway to Consciousness][featured-book] /
+Links:
+[THE ARMAGEDDON CONSPIRACY | PYTHAGOREAN ILLUMINATI][armageddon]
+[The Stairway to Consciousness][featured-book] 
 [Dr.Thomas Stark](https://www.amazon.com/Dr.-Thomas-Stark/e/B075J9RNJP)
-
-Here are the links to Baal Kadmon's course pre-release:
+[Baal Kadmon's course pre-releas][featured-page]e:
 [72 Demon Course][featured-page] /
 [Baal Kadmon](https://baalkadmon.com/)
-
-Don't forget to check out MazMo's site:
 [MaMa Mythology][featured-site]
-
-Looking for great books? Check out OneOfManyOne's [Occult e-book Archives][featured-archive].
+[OneOfManyOne's Occult e-book Archives][featured-archive].
 
 [featured-book]: https://www.amazon.com/gp/aw/d/B07KY6QGN6
 [featured-page]: https://www.occultcourses.com/predemon 
 [featured-site]: https://mamamythology.com/
-[featured-archive]: https://justpaste.it/WiLdOccultEbooks
-[amermageddon]: https://armageddonconspiracy.co.uk/
+[featured-archive]: https://justpaste.it/WiLdOccultEbooks/
+[armageddon]: https://armageddonconspiracy.co.uk/
