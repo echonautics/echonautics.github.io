@@ -8,7 +8,7 @@ title: Knowledge Database
 
 Links:
 
-[THE ARMAGEDDON CONSPIRACY | PYTHAGOREAN ILLUMINATI][armageddon]
+[THE ARMAGEDDON CONSPIRACY PYTHAGOREAN ILLUMINATI][armageddon]
 
 [The Stairway to Consciousness][featured-book] 
 
