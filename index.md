@@ -7,14 +7,22 @@ title: Knowledge Database
 ---
 
 Links:
+
 [THE ARMAGEDDON CONSPIRACY | PYTHAGOREAN ILLUMINATI][armageddon]
+
 [The Stairway to Consciousness][featured-book] 
+
 [Dr.Thomas Stark](https://www.amazon.com/Dr.-Thomas-Stark/e/B075J9RNJP)
-[Baal Kadmon's course pre-releas][featured-page]e:
-[72 Demon Course][featured-page] /
+
+[Baal Kadmon's course pre-releas][featured-page]
+
+[72 Demon Course][featured-page]
+
 [Baal Kadmon](https://baalkadmon.com/)
+
 [MaMa Mythology][featured-site]
-[OneOfManyOne's Occult e-book Archives][featured-archive].
+
+[OneOfManyOne's Occult e-book Archives][featured-archive]
 
 [featured-book]: https://www.amazon.com/gp/aw/d/B07KY6QGN6
 [featured-page]: https://www.occultcourses.com/predemon 
