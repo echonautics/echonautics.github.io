@@ -8,13 +8,21 @@ title: Knowledge Database
 
 Links:
 
-[Pythagorean Illuminati][armageddon-link]|[I Am Hyperian][hyperianism-link]
+[Pythagorean Illuminati][armageddon-link]
 
-[The Stairway to Consciousness][featured-book]|[Dr.Thomas Stark](https://www.amazon.com/Dr.-Thomas-Stark/e/B075J9RNJP)
+[I Am Hyperian][hyperianism-link]
 
-[Baal Kadmon's course pre-releas][featured-page]|[Baal Kadmon](https://baalkadmon.com/)
+[The Stairway to Consciousness][featured-book]
 
-[MaMa Mythology][featured-site]|[OneOfManyOne's Occult e-book Archives][featured-archive]
+[Dr.Thomas Stark](https://www.amazon.com/Dr.-Thomas-Stark/e/B075J9RNJP)
+
+[Baal Kadmon's course pre-releas][featured-page]
+
+[Baal Kadmon](https://baalkadmon.com/)
+
+[MaMa Mythology][featured-site]
+
+[OneOfManyOne's Occult e-book Archives][featured-archive]
 
 [featured-book]: https://www.amazon.com/gp/aw/d/B07KY6QGN6
 [featured-page]: https://www.occultcourses.com/predemon 
