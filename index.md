@@ -8,8 +8,9 @@ title: Knowledge Database
 
 Links:
 
-[Pythagorean Illuminati][armageddon]
+[Pythagorean Illuminati][armageddon-link]
 
+[I Am Hyperian][hyperianism-link]
 [The Stairway to Consciousness][featured-book] 
 
 [Dr.Thomas Stark](https://www.amazon.com/Dr.-Thomas-Stark/e/B075J9RNJP)
@@ -26,4 +27,5 @@ Links:
 [featured-page]: https://www.occultcourses.com/predemon 
 [featured-site]: https://mamamythology.com/
 [featured-archive]: https://justpaste.it/WiLdOccultEbooks/
-[armageddon]: https://armageddonconspiracy.co.uk/
+[armageddon-link]: https://armageddonconspiracy.co.uk/
+[hyperianism-link]: https://www.iamhyperian.com/
