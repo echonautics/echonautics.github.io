@@ -16,8 +16,6 @@ Links:
 
 [Baal Kadmon's course pre-releas][featured-page]
 
-[72 Demon Course][featured-page]
-
 [Baal Kadmon](https://baalkadmon.com/)
 
 [MaMa Mythology][featured-site]

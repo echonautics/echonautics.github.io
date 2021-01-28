@@ -34,8 +34,7 @@ defaults:
       author: "Echonaut"
   -
 title: Illuminatus
-email: illuminatus@echonautica.com
-description: "Echonautica: Custom Designs © 2021"
+description: "'In all chaos there is a cosmos, in all disorder a secret order.' CG Jung"
 # this means to ignore newlines until "baseurl:"
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
@@ -44,7 +43,7 @@ baseurl: /base/
 url: https://echonautica.com
 instagram_username: echonautica_illuminatus
 github_username:  echonaut
-
+#facebook: 
 # Build settings
 theme: minima
 plugins: jekyll-feed
