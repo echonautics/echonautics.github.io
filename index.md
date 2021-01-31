@@ -16,7 +16,7 @@ Links:
 
 [Dr.Thomas Stark](https://www.amazon.com/Dr.-Thomas-Stark/e/B075J9RNJP)
 
-[Baal Kadmon's course pre-releas][featured-page]
+[Baal Kadmon's course pre-release][featured-page]
 
 [Baal Kadmon](https://baalkadmon.com/)
 
