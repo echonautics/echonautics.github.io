@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Knowledge Database
+title: The Chaos Builder
 ---
 
 Links:
@@ -30,3 +30,4 @@ Links:
 [featured-archive]: https://justpaste.it/WiLdOccultEbooks/
 [armageddon-link]: https://armageddonconspiracy.co.uk/
 [hyperianism-link]: https://www.iamhyperian.com/
+ 
